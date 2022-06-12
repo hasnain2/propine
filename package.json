@@ -1,0 +1,21 @@
+{
+	"name": "assignment",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "node index.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"await": "^0.2.6",
+		"csv-parser": "^3.0.0",
+		"date-and-time": "^2.3.1",
+		"parser": "^0.1.4",
+		"promise": "^8.1.0",
+		"request": "^2.88.2",
+		"yargs": "^17.5.1"
+	}
+}
